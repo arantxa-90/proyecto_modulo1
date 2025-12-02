@@ -1,1 +1,1 @@
-# proyecto_modulo1
+# En esta carpeta encontrarás el proyecto del módulo 1
