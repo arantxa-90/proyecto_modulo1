@@ -1,1 +1,1 @@
-# En esta carpeta encontrarás el proyecto del módulo 1
+# Aquí está el proyecto del juego del ahorcado que hicimos entre Ana y Arantxa
