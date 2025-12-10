@@ -1,4 +1,4 @@
-**EL JUEGO DEL AHORCADO CHRISTMAS EDITION** 🔠🎄🎅🏻
+**EL JUEGO DEL AHORCADO CHRISTMAS EDITION** 🔠🎄🎅🏻 \n
 ¡ El juego de nuestra infancia implementado en Python y con un toque navideño!☃️❄️
 
 
@@ -16,5 +16,5 @@ Con el desarrollo de este juego hemos convertido la teoría en hechos a través 
 No solo nos ha servido como medio para afianzar conceptos completamente nuevos para nosotras; también para desenvolvernos en un escenario desconocido, descubrir nuevas metodologías y, por último pero no menos importante, para la **superación de retos y la consecución de hitos** 💪🏻
 
 AUTORAS 👩🏻‍💻👩🏻‍💻
-Arantxa Barea
+Arantxa Barea\n
 Ana María Castro
